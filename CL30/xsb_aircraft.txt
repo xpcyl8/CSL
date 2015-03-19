@@ -1,0 +1,7 @@
+EXPORT_NAME CL30
+
+OBJECT CL30:Challenger-CSL.obj
+HASGEAR NO
+ICAO CL30
+
+TEXTURE CL30:challenger_tx.png
